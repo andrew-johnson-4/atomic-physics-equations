@@ -16,4 +16,4 @@ Interesting Equations and Notes From Studying Atomic Physics
 | atom state	| ground state | Lowest possible energy state
 | atom state	| excited	state | Electron moved to larger orbit
 | atom state	| ionized	state | Electron transitioned out of atom. A hydrogen atom, having only one electron, can be ionized only once
-| atom state	| completely ionized state | More ionization is associated with higher energy. Further ionization takes more energy.
+| atom state	| completely ionized state | All electrons are gone. More ionization is associated with higher energy. Further ionization takes more energy.
