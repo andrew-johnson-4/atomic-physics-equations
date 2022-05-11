@@ -1,7 +1,7 @@
 # Atomic Physics Equations
 Interesting Equations and Notes From Studying Atomic Physics
 
-# Terms
+# SI Terms
 | SI Unit | Name  | Value | Notes
 |---------|-------|-------|------
 | 1/s		  | cycle | 1 Hz  |
