@@ -15,6 +15,7 @@ Interesting Equations and Notes From Studying Atomic Physics
 | <img src="/img/ReducedPlanckConstant.svg" title="https://en.wikipedia.org/wiki/Planck_constant#Reduced_Planck_constant"/> | reduced Planck constant | <img src="/img/ReducedPlanckConstantValue.svg" title="https://en.wikipedia.org/wiki/Planck_constant#Reduced_Planck_constant"/> | Pronounced H Bar
 | <img src="/img/EnergyOfAPhoton.svg" title="https://en.wikipedia.org/wiki/Planck_constant#Reduced_Planck_constant"/> | The energy of a photon with angular frequency ω = 2πf | |
 | ∂z/∂x | partial derivative | | The partial derivative of z with respect to x
+| <img src="/img/AngularFrequency.svg" title="https://en.wikipedia.org/wiki/Planck_constant#Reduced_Planck_constant"/> | photon | | A photon is an elementary particle, the quantum of the electromagnetic field including electromagnetic radiation (such as light) and the force carrier for the electromagnetic force.
 
 # Spectra
 | Unit | Name  | Notes
