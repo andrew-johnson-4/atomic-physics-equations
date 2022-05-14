@@ -13,9 +13,8 @@ Interesting Equations and Notes From Studying Atomic Physics
 | ℓ | angular momentum quantum number of orbital | s | The simple names s orbital, p orbital, d orbital, and f orbital refer to orbitals with angular momentum quantum number ℓ = 0, 1, 2, and 3 respectively.
 | Eψ(r,θ,φ) | Schrödinger wave equation | <img src="/img/SchrodingerWaveEquation.png" title="https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation"/> |
 | <img src="/img/ReducedPlanckConstant.svg" title="https://en.wikipedia.org/wiki/Planck_constant#Reduced_Planck_constant"/> | reduced Planck constant | <img src="/img/ReducedPlanckConstantValue.svg" title="https://en.wikipedia.org/wiki/Planck_constant#Reduced_Planck_constant"/> | Pronounced H Bar
-| <img src="/img/EnergyOfAPhoton.svg" title="https://en.wikipedia.org/wiki/Planck_constant#Reduced_Planck_constant"/> | The energy of a photon with angular frequency ω = 2πf | |
+| <img src="/img/EnergyOfAPhoton.svg" title="https://en.wikipedia.org/wiki/Planck_constant#Reduced_Planck_constant"/> | The energy of a photon with angular frequency ω = 2πf | f is the ordinary frequency measured in hertz | A photon is an elementary particle, the quantum of the electromagnetic field including electromagnetic radiation (such as light) and the force carrier for the electromagnetic force.
 | ∂z/∂x | partial derivative | | The partial derivative of z with respect to x
-| <img src="/img/AngularFrequency.svg" title="https://en.wikipedia.org/wiki/Planck_constant#Reduced_Planck_constant"/> | photon | f is the ordinary frequency measured in hertz | A photon is an elementary particle, the quantum of the electromagnetic field including electromagnetic radiation (such as light) and the force carrier for the electromagnetic force.
 
 # Spectra
 | Unit | Name  | Notes
