@@ -14,6 +14,7 @@ Interesting Equations and Notes From Studying Atomic Physics
 | Eψ(r,θ,φ) | Schrödinger Wave Equation | <img src="/img/SchrodingerWaveEquation.png" title="https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation"/> |
 | <img src="/img/ReducedPlanckConstant.svg" title="https://en.wikipedia.org/wiki/Planck_constant#Reduced_Planck_constant"/> | Reduced Planck Constant | <img src="/img/ReducedPlanckConstantValue.svg" title="https://en.wikipedia.org/wiki/Planck_constant#Reduced_Planck_constant"/> | Pronounced H Bar
 | <img src="/img/EnergyOfAPhoton.svg" title="https://en.wikipedia.org/wiki/Planck_constant#Reduced_Planck_constant"/> | The energy of a photon with angular frequency ω = 2πf | |
+| ∂z/∂x | partial derivative | | The partial derivative of z with respect to x
 
 # Spectra
 | Unit | Name  | Notes
