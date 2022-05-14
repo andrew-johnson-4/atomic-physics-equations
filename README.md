@@ -11,6 +11,7 @@ Interesting Equations and Notes From Studying Atomic Physics
 | m	      | wavelength(a)	| c/hyperfine_transition_frequency(a) | "larger" wavelengths are considered "below" smaller wavelengths because they are canonically measured in Hz. Also smaller wavelengths are associated with higher energies. Electromagnetic waves follow the "right-hand rule" which describes the planar nature of Electro/Magnetic radiation.
 | Each orbital in an atom is characterized by a set of values of the three quantum numbers n, ℓ, and mₗ, which respectively correspond to the electron's energy, angular momentum, and an angular momentum vector component (the magnetic quantum number). | atomic orbital | <img src="/img/HydrogenLikeElectronOrbits.png" title="https://en.wikipedia.org/wiki/Atomic_orbital" style="height:6em"/> | The hydrogen-like atomic orbitals are derived from the exact solutions of the Schrödinger Equation for one electron and a nucleus, for a hydrogen-like atom. The part of the function that depends on the distance r from the nucleus has nodes (radial nodes) and decays as e−(constant × distance).
 | ℓ | angular momentum quantum number of orbital | s | The simple names s orbital, p orbital, d orbital, and f orbital refer to orbitals with angular momentum quantum number ℓ = 0, 1, 2, and 3 respectively.
+| Eψ(r,θ,φ) | Schrödinger Wave Equation | <img src="/img/SchrodingerWaveEquation.png" title="https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation" style="height:6em"/> |
 
 # Spectra
 | Unit | Name  | Notes
