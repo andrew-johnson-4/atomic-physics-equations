@@ -4,8 +4,8 @@ Interesting Equations and Notes From Studying Atomic Physics
 # SI Terms
 | SI Unit | Name  | Value | Notes
 |---------|-------|-------|------
-| | atomic number | 2 | number of protons
-| | mass number | 4 | number of protons + neutrons
+| He | atomic number | 2 | number of protons
+| He | mass number | 4 | number of protons + neutrons
 | 1/s		  | cycle | 1 Hz  |
 |	m/s     | speed of light = c | 299792458 m/s |
 | /s      |	hyperfine_transition_frequency(H) | 1420405752 Hz |
